@@ -703,3 +703,5 @@ Fix move postinstall to build
 ## 0.0.1
 
 Initial release
+
+<!-- Auto-update: 2025-10-19T08:52:00.781637 -->
